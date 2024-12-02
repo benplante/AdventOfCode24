@@ -1,0 +1,6 @@
+﻿<Solution>
+  <Folder Name="/Day1/">
+    <Project Path="Day1Part1\Day1Part1.fsproj" Type="Classic F#" />
+    <Project Path="Day1Part2\Day1Part2.fsproj" Type="Classic F#" />
+  </Folder>
+</Solution>
