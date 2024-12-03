@@ -3,4 +3,7 @@
     <Project Path="Day1Part1\Day1Part1.fsproj" Type="Classic F#" />
     <Project Path="Day1Part2\Day1Part2.fsproj" Type="Classic F#" />
   </Folder>
+  <Folder Name="/Day2/">
+    <Project Path="Day2Part1\Day2Part1.fsproj" Type="Classic F#" />
+  </Folder>
 </Solution>
