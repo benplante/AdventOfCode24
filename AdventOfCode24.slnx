@@ -11,4 +11,7 @@
     <Project Path="Day3Part1\Day3Part1.fsproj" Type="Classic F#" />
     <Project Path="Day3Part2\Day3Part2.fsproj" Type="Classic F#" />
   </Folder>
+  <Folder Name="/Day4/">
+    <Project Path="Day4Part1\Day4Part1.fsproj" Type="Classic F#" />
+  </Folder>
 </Solution>
